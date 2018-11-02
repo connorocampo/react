@@ -82,7 +82,7 @@ class App extends Component {
         <AddProject addProject={this.handleAddProject.bind(this)} />
         <Projects projects={this.state.projects} onDelete={this.handleDeleteProject.bind(this)} />
         <hr />
-        <Todos />
+        <Todos todos={this.state.todos} />
       </div>
     );
     }
