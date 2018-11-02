@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +43,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# react-app
+Following along with Brad Traversy to lean React.js (https://www.youtube.com/watch?v=A71aqufiNtQ&amp;t=)/
+>>>>>>> 9c5e172d97bb3e1cd3b329ce040d65960b435c48
