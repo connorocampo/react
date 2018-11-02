@@ -63,7 +63,6 @@ select {
     padding: 10px;
     font-size: 16px;
     margin-top: 10px;
-    outline: 0;
 }
 
 .add-project {
@@ -79,6 +78,6 @@ select {
     border-radius: 5px;
 }
 
-li {
+Todos {
     margin-bottom: 20px;
 }
