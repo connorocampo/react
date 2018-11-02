@@ -34,3 +34,50 @@
 body {
     background: #eee;
 }
+
+div {
+    text-align: center;
+}
+
+.labels {
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0 0 20px 0;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+input {
+    border: none;
+    padding: 14px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+input:focus {
+    outline: 0;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.add-project {
+    color: #333;
+    font-size: 40px;
+    padding: 0 15px;
+}
+
+.submit{
+    background: #006666;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+Todos {
+    margin-bottom: 20px;
+}

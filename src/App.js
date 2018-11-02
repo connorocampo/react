@@ -6,7 +6,6 @@ import AddProject from './Components/AddProject';
 import Todos from './Components/Todos';
 // import logo from './logo.svg';
 import './App.css';
-// Turn './App.css' back on if needed
 
 class App extends Component {
     constructor(){
