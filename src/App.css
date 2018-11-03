@@ -80,6 +80,7 @@ select {
     color: #fff;
     text-transform: uppercase;
     border-radius: 5px;
+    -webkit-appearance: none;
 }
 
 .latest-projects {
