@@ -46,7 +46,7 @@ class App extends Component {
             },
             {
                 id: uuid.v4(),
-                title: 'Ecommerce Shopping Cart',
+                title: 'Contact Form',
                 category: 'Web Development'
             }
         ]});

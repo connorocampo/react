@@ -17,7 +17,7 @@ class AddProject extends Component {
 
     handleSubmit(e){
         if(this.refs.title.value === '' ){
-            alert('Title is required');
+            alert('Add a project name to continue submission.');
         } else {
             this.setState({newProject:{
                 id: uuid.v4(),
