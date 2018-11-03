@@ -34,7 +34,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700');
 
 body {
-    background: #eee;
+    background: url("../src/Components/full-bloom.png");
 }
 
 div {
@@ -45,7 +45,7 @@ div {
     color: #333;
     font-size: 36px;
     font-family: 'Merriweather Sans', sans-serif;
-    padding: 0 25px;
+    padding: 25px 25px 0 25px;
 }
 
 .labels {
@@ -89,7 +89,6 @@ select {
 }
 
 li {
-    /* padding: 0 25px; */
     display: flex;
     justify-content: center;
     text-align: left;
