@@ -106,6 +106,12 @@ button {
     border: none;
 }
 
+hr {
+    width: 100px;
+    border: 1px solid #333;
+    margin: 30px auto;
+}
+
 Todos {
     margin-bottom: 20px;
 }
