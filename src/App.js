@@ -4,7 +4,7 @@ import $ from 'jquery';
 import Projects from './Components/Projects';
 import AddProject from './Components/AddProject';
 import Todos from './Components/Todos';
-// import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -82,6 +82,7 @@ class App extends Component {
         <Projects projects={this.state.projects} onDelete={this.handleDeleteProject.bind(this)} />
         <hr />
         <Todos />
+        <img src={logo} className="App-logo" />
       </div>
     );
     }
