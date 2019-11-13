@@ -37,7 +37,8 @@ class AddProject extends Component {
     });
     return (
       <div>
-        <h3 className="add-project">Add Project To List By Category</h3>
+        <h3 className="add-project">To Do List</h3>
+        <p className="description">Try it out! Add a project to this To Do List and select an appropriate category for it. Then, click SUBMIT to add it to the Latest Projects List. You can also remove projects from the Latest Projects List by clicking on the X marked button.</p>
         <form onSubmit={this.handleSubmit.bind(this)}>
             <div>
                 <label className="labels project">Project</label><br />

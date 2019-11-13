@@ -4,13 +4,13 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1",
+    "react-scripts": "^3.2.0",
     "uuid": "^3.3.2"
   },
-  "homepage": "https://connorocampo.github.io/react-app/",
+  "homepage": "https://catherineocampo.github.io/react-app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

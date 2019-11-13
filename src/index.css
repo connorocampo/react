@@ -15,6 +15,7 @@ code {
 
 body {
     background: #eee;
+    color: #61DAFB;
 }
 
 div {
@@ -23,10 +24,9 @@ div {
 
 .labels {
     display: inline-block;
-    font-size: 25px;
+    font-size: 26px;
     font-weight: bold;
     margin: 0 0 20px 0;
-    padding: 10px;
     text-decoration: underline;
 }
 
@@ -46,19 +46,6 @@ select {
     font-size: 16px;
     margin-top: 10px;
     outline: 0;
-}
-
-.add-project {
-    color: #333;
-    font-size: 40px;
-    padding: 0 15px;
-}
-
-.submit{
-    background: #006666;
-    color: #fff;
-    text-transform: uppercase;
-    border-radius: 5px;
 }
 
 li {
